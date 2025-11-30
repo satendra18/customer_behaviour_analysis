@@ -1,5 +1,5 @@
 # customer_behaviour_analysis
-📊 Data Analytics Project – End-to-End Workflow
+Data Analytics Project – End-to-End Workflow
 1. Overview
 
 This project demonstrates a complete end-to-end data analytics workflow using Python, SQL, PostgreSQL, and Power BI.
